@@ -1,0 +1,73 @@
+espece_id,nom_scientifique,nom_francais,ordre,famille,habitat_principal,regime_alimentaire,statut_migration,longueur_cm
+1,Turdus merula,Merle noir,Passeriformes,Turdidae,jardins_et_villes,omnivore,partiel,25
+2,Turdus philomelos,Grive musicienne,Passeriformes,Turdidae,forets,omnivore,partiel,23
+3,Turdus viscivorus,Grive draine,Passeriformes,Turdidae,forets,omnivore,partiel,27
+4,Turdus pilaris,Grive litorne,Passeriformes,Turdidae,milieux_ouverts,omnivore,partiel,25
+5,Turdus iliacus,Grive mauvis,Passeriformes,Turdidae,milieux_ouverts,omnivore,migrateur,21
+6,Erithacus rubecula,Rougegorge familier,Passeriformes,Muscicapidae,jardins_et_villes,insectivore,partiel,14
+7,Phoenicurus ochruros,Rougequeue noir,Passeriformes,Muscicapidae,jardins_et_villes,insectivore,partiel,14
+8,Phoenicurus phoenicurus,Rougequeue à front blanc,Passeriformes,Muscicapidae,forets,insectivore,migrateur,14
+9,Saxicola rubicola,Tarier pâtre,Passeriformes,Muscicapidae,milieux_ouverts,insectivore,partiel,12
+10,Oenanthe oenanthe,Traquet motteux,Passeriformes,Muscicapidae,milieux_ouverts,insectivore,migrateur,15
+11,Troglodytes troglodytes,Troglodyte mignon,Passeriformes,Troglodytidae,forets,insectivore,sedentaire,10
+12,Prunella modularis,Accenteur mouchet,Passeriformes,Prunellidae,jardins_et_villes,insectivore,partiel,14
+13,Sylvia atricapilla,Fauvette à tête noire,Passeriformes,Sylviidae,forets,insectivore,partiel,14
+14,Phylloscopus collybita,Pouillot véloce,Passeriformes,Phylloscopidae,forets,insectivore,partiel,11
+15,Regulus regulus,Roitelet huppé,Passeriformes,Regulidae,forets,insectivore,partiel,9
+16,Parus major,Mésange charbonnière,Passeriformes,Paridae,jardins_et_villes,omnivore,sedentaire,14
+17,Cyanistes caeruleus,Mésange bleue,Passeriformes,Paridae,jardins_et_villes,insectivore,sedentaire,12
+18,Periparus ater,Mésange noire,Passeriformes,Paridae,forets,insectivore,sedentaire,11
+19,Lophophanes cristatus,Mésange huppée,Passeriformes,Paridae,forets,insectivore,sedentaire,12
+20,Poecile palustris,Mésange nonnette,Passeriformes,Paridae,forets,omnivore,sedentaire,12
+21,Aegithalos caudatus,Mésange à longue queue,Passeriformes,Aegithalidae,forets,insectivore,sedentaire,14
+22,Sitta europaea,Sittelle torchepot,Passeriformes,Sittidae,forets,omnivore,sedentaire,14
+23,Certhia brachydactyla,Grimpereau des jardins,Passeriformes,Certhiidae,jardins_et_villes,insectivore,sedentaire,13
+24,Passer domesticus,Moineau domestique,Passeriformes,Passeridae,jardins_et_villes,granivore,sedentaire,15
+25,Passer montanus,Moineau friquet,Passeriformes,Passeridae,milieux_ouverts,granivore,sedentaire,14
+26,Fringilla coelebs,Pinson des arbres,Passeriformes,Fringillidae,forets,omnivore,partiel,15
+27,Carduelis carduelis,Chardonneret élégant,Passeriformes,Fringillidae,jardins_et_villes,granivore,partiel,12
+28,Chloris chloris,Verdier d'Europe,Passeriformes,Fringillidae,jardins_et_villes,granivore,partiel,15
+29,Spinus spinus,Tarin des aulnes,Passeriformes,Fringillidae,forets,granivore,partiel,12
+30,Linaria cannabina,Linotte mélodieuse,Passeriformes,Fringillidae,milieux_ouverts,granivore,partiel,14
+31,Pyrrhula pyrrhula,Bouvreuil pivoine,Passeriformes,Fringillidae,forets,granivore,sedentaire,16
+32,Coccothraustes coccothraustes,Grosbec casse-noyaux,Passeriformes,Fringillidae,forets,granivore,partiel,17
+33,Emberiza citrinella,Bruant jaune,Passeriformes,Emberizidae,milieux_ouverts,granivore,partiel,16
+34,Alauda arvensis,Alouette des champs,Passeriformes,Alaudidae,milieux_ouverts,granivore,partiel,18
+35,Motacilla alba,Bergeronnette grise,Passeriformes,Motacillidae,jardins_et_villes,insectivore,partiel,18
+36,Hirundo rustica,Hirondelle rustique,Passeriformes,Hirundinidae,milieux_ouverts,insectivore,migrateur,18
+37,Delichon urbicum,Hirondelle de fenêtre,Passeriformes,Hirundinidae,jardins_et_villes,insectivore,migrateur,14
+38,Sturnus vulgaris,Étourneau sansonnet,Passeriformes,Sturnidae,milieux_ouverts,omnivore,partiel,21
+39,Garrulus glandarius,Geai des chênes,Passeriformes,Corvidae,forets,omnivore,sedentaire,34
+40,Pica pica,Pie bavarde,Passeriformes,Corvidae,jardins_et_villes,omnivore,sedentaire,46
+41,Corvus corone,Corneille noire,Passeriformes,Corvidae,milieux_ouverts,omnivore,sedentaire,46
+42,Corvus frugilegus,Corbeau freux,Passeriformes,Corvidae,milieux_ouverts,omnivore,partiel,46
+43,Corvus corax,Grand Corbeau,Passeriformes,Corvidae,montagne_rochers,omnivore,sedentaire,64
+44,Lanius collurio,Pie-grièche écorcheur,Passeriformes,Laniidae,milieux_ouverts,insectivore,migrateur,18
+45,Oriolus oriolus,Loriot d'Europe,Passeriformes,Oriolidae,forets,insectivore,migrateur,24
+46,Columba palumbus,Pigeon ramier,Columbiformes,Columbidae,jardins_et_villes,granivore,partiel,41
+47,Streptopelia decaocto,Tourterelle turque,Columbiformes,Columbidae,jardins_et_villes,granivore,sedentaire,32
+48,Streptopelia turtur,Tourterelle des bois,Columbiformes,Columbidae,milieux_ouverts,granivore,migrateur,27
+49,Apus apus,Martinet noir,Apodiformes,Apodidae,jardins_et_villes,insectivore,migrateur,17
+50,Cuculus canorus,Coucou gris,Cuculiformes,Cuculidae,forets,insectivore,migrateur,33
+51,Dendrocopos major,Pic épeiche,Piciformes,Picidae,forets,insectivore,sedentaire,23
+52,Picus viridis,Pic vert,Piciformes,Picidae,milieux_ouverts,insectivore,sedentaire,32
+53,Upupa epops,Huppe fasciée,Bucerotiformes,Upupidae,milieux_ouverts,insectivore,migrateur,28
+54,Merops apiaster,Guêpier d'Europe,Coraciiformes,Meropidae,milieux_ouverts,insectivore,migrateur,28
+55,Alcedo atthis,Martin-pêcheur d'Europe,Coraciiformes,Alcedinidae,zones_humides,piscivore,partiel,17
+56,Buteo buteo,Buse variable,Accipitriformes,Accipitridae,milieux_ouverts,carnivore,partiel,53
+57,Accipiter nisus,Épervier d'Europe,Accipitriformes,Accipitridae,forets,carnivore,partiel,35
+58,Falco tinnunculus,Faucon crécerelle,Falconiformes,Falconidae,milieux_ouverts,carnivore,partiel,34
+59,Strix aluco,Chouette hulotte,Strigiformes,Strigidae,forets,carnivore,sedentaire,38
+60,Tyto alba,Effraie des clochers,Strigiformes,Tytonidae,milieux_ouverts,carnivore,sedentaire,36
+61,Ardea cinerea,Héron cendré,Pelecaniformes,Ardeidae,zones_humides,piscivore,partiel,95
+62,Egretta garzetta,Aigrette garzette,Pelecaniformes,Ardeidae,zones_humides,piscivore,partiel,60
+63,Anas platyrhynchos,Canard colvert,Anseriformes,Anatidae,zones_humides,omnivore,partiel,58
+64,Cygnus olor,Cygne tuberculé,Anseriformes,Anatidae,zones_humides,herbivore,sedentaire,150
+65,Gallinula chloropus,Gallinule poule-d'eau,Gruiformes,Rallidae,zones_humides,omnivore,sedentaire,33
+66,Fulica atra,Foulque macroule,Gruiformes,Rallidae,zones_humides,omnivore,partiel,38
+67,Phalacrocorax carbo,Grand Cormoran,Suliformes,Phalacrocoracidae,zones_humides,piscivore,partiel,90
+68,Chroicocephalus ridibundus,Mouette rieuse,Charadriiformes,Laridae,zones_humides,omnivore,partiel,37
+69,Larus michahellis,Goéland leucophée,Charadriiformes,Laridae,littoral,omnivore,partiel,58
+70,Phasianus colchicus,Faisan de Colchide,Galliformes,Phasianidae,milieux_ouverts,omnivore,sedentaire,75
+71,Perdix perdix,Perdrix grise,Galliformes,Phasianidae,milieux_ouverts,granivore,sedentaire,30
+72,Coturnix coturnix,Caille des blés,Galliformes,Phasianidae,milieux_ouverts,granivore,migrateur,18
